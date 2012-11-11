@@ -25,7 +25,7 @@ public abstract class ApiFileControl {
 	/** 行数 */
 	private int fLine = 1;
 
-	/** 改行コード */
+	/** 改行コード  */
 	private String fLineCode = "";
 
 	/** 現在行 */
